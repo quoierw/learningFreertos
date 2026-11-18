@@ -1,0 +1,28 @@
+# Keil build output (at any project depth)
+Objects/
+Listings/
+
+# Keil per-user window layouts
+*.uvguix.*
+*.uvgui.*
+/listAndlistItem/Project/Fire_FreeRTOS.Administrator
+
+# Backups, temporary files, and CMSIS pack update copies
+*.[bB][aA][kK]
+*.tmp
+*~
+*.swp
+*.swo
+*.update@*
+
+# Local VS Code / Keil Assistant files (contain machine-specific paths)
+**/.vscode/c_cpp_properties.json
+**/.vscode/*.log
+**/.vscode/*.log.lock
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Keep .uvprojx, .uvoptx, and RTE source files under version control.
