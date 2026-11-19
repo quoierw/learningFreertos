@@ -5,7 +5,7 @@ Listings/
 # Keil per-user window layouts
 *.uvguix.*
 *.uvgui.*
-/listAndlistItem/Project/Fire_FreeRTOS.Administrator
+*.Administrator
 
 # Backups, temporary files, and CMSIS pack update copies
 *.[bB][aA][kK]
