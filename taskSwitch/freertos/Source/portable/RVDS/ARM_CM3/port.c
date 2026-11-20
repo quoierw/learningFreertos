@@ -120,7 +120,4 @@ __asm void xPortPendSVHandler(void)
     isb 
     bx r14
     nop
-
-
-
 }
